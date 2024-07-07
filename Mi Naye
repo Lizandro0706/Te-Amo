@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Cumpleaños</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #ff6f61;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        img {
+            width: 100%;
+            max-width: 400px;
+            margin: 20px auto;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Feliz Cumpleaños, Mi Amor! 🎉🎂💖</h1>
+        <img src="https://example.com/happy-birthday.jpg" alt="Feliz Cumpleaños">
+        <p>Hoy es un día muy especial porque no solo celebramos tu cumpleaños, sino también nuestros maravillosos 14 meses juntos. 🌟</p>
+        <img src="https://example.com/love.jpg" alt="Amor">
+        <p>Desde el primer momento en que te conocí, supe que eras alguien especial. Tu alegría, simpatía y belleza no solo iluminaron mi vida, sino que también me hicieron sentir completo. Agradezco a Dios todos los días por haberte puesto en mi camino. 🙏✨</p>
+        <p>Tu dedicación como enfermera y tu compromiso con la iglesia son verdaderamente inspiradores. Eres una persona increíblemente carismática y alegre, siempre dispuesta a ayudar a los demás. Esa generosidad y amor incondicional que muestras a todos, también me lo has demostrado a mí, y por eso te estoy eternamente agradecido. ❤️</p>
+        <p>Cada salida a comer, cada juego que compartimos y cada paseo que damos juntos, se han convertido en recuerdos inolvidables que atesoro profundamente. 🍔🎮🚶‍♂️ Contigo, cada momento es especial y lleno de felicidad.</p>
+        <img src="https://example.com/memories.jpg" alt="Recuerdos">
+        <p>En estos 14 meses, me has apoyado en todo y has sido mi roca, mi guía y mi mejor amiga. Estoy increíblemente agradecido por cada gesto de amor y por cada palabra de aliento que me has dado. Tú me haces muy feliz y no puedo imaginar mi vida sin ti. 💕</p>
+        <p>Hoy, en tu cumpleaños, quiero que sepas lo mucho que significas para mí y lo bendecido que me siento por tenerte a mi lado. Agradezco a Dios por este día, por tu vida y por la oportunidad de compartir nuestras vidas juntos. Que Él continúe bendiciéndote con amor, salud y alegría, y que nuestra relación siga fortaleciéndose con cada día que pasa. 🙌✨</p>
+        <p>Te amo con todo mi corazón. ¡Disfruta tu día al máximo y celebra cada momento, porque te lo mereces! 🎈😘</p>
+    </div>
+</body>
+</html>
